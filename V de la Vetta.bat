@@ -1,10 +1,11 @@
 ::
 :: Script original creat de omnipotentul si omniprezentul HaZZe.
+:: Versiune actuala: 0.0.2 (Beta)
 ::
 @echo off
 setlocal enabledelayedexpansion
 color 0f
-title V de la Vetta (BETA v0.0.1)
+title V de la Vetta (BETA v0.0.2)
 
 :entergame
 cls
