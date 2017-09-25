@@ -1,5 +1,7 @@
-# V de la Vetta v0.0.2
-Acesta este un inceput de joc in format batch (.bat) original si inceputul erei BATCH.
+# Descriere
+Acesta este un început de joc în format batch (.bat) original şi începutul erei BATCH.
+
+Contribuitori:
 
 Regizor: HaZZe.
 
@@ -12,10 +14,11 @@ Responsabil Audio: HaZZe.
 Subtitrare: HaZZe.
 
 Multumiri speciale: HaZZe.
-
+# V de la Vetta v0.0.2
+Au fost adăugate diferite funcţii şi module.
 
 # V de la Vetta v0.0.1
-Lansarea oficiala.
+Lansarea oficială.
 
 
-# Copyright© HaZZe - 2k17
+# Copirait© HaZZe - 2k17
