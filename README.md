@@ -2,6 +2,7 @@
 Acesta este un inceput de joc in format batch (.bat) original si inceputul erei BATCH.
 
 Regizor: HaZZe.
+
 Scenarist: HaZZe.
 
 Programator: HaZZe.
