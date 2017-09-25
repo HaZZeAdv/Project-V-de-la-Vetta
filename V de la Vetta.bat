@@ -268,3 +268,6 @@ echo set defense=%defense%
 echo set damage=%damage%
 )>%username1%.bat
 goto MENU
+::
+:: Copyright HaZZe - 2k17
+::
